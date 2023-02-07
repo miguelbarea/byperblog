@@ -1,5 +1,6 @@
 Esto es la historia de Miguel.
 
-Tiene 32 años y ahora cumple 33, nació ne Las Palmas de Gran Canaria.
+Tiene 33 años y ahora cumple 33, nació en 
+Las Palmas de Gran Canaria.
 
 Seguiremos con su historia.
